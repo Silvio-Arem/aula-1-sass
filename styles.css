@@ -6,4 +6,13 @@ h1 {
   color: white;
 }
 
+ul.minha-lista {
+  list-style-type: none;
+  background-color: gray;
+}
+ul.minha-lista li {
+  margin: 0;
+  padding: 0;
+}
+
 /*# sourceMappingURL=styles.css.map */
