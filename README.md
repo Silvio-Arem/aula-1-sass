@@ -1,8 +1,8 @@
-<h1 align="center">Aula 1 Sass XP46</h1>
+<h1 align="center">Aula 1 CSS Avançado XP46</h1>
 
 <br>
 
-<h3 align="center">Aula 1 de Introdução ao Framework Sass do Gama Experience Edição 46 - Sintaxe e Funcionalidades</h3>
+<h3 align="center">Aula 1 de CSS Avançado do Gama Experience Edição 46 - Framework Sass = Sintaxe e Funcionalidades</h3>
 
 <br>
 
