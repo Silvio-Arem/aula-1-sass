@@ -2,11 +2,11 @@
 
 <br>
 
-<h3 align="center">Aula 1 de Introdução ao Framework Sass do Gama Experience Edição 46 - Inicio</h3>
+<h3 align="center">Aula 1 de Introdução ao Framework Sass do Gama Experience Edição 46 - Sintaxe e Funcionalidades</h3>
 
 <br>
 
-<p align="center">Nesta aula serão passados os conceitos iniciais do framework Sass, que são a vinculação do arquivo scss com o css utilizando o comando "sass --watch styles.scss styles.css" no terminal e a criação de variáveis utilizando-as no arquivo html</p>
+<p align="center">Nesta aula veremos a sintaxe e as funcionalidades do framework Sass, a princípio trata-se da vinculação do arquivo scss com o css utilizando o comando "sass --watch styles.scss styles.css" no terminal e a criação de variáveis utilizando-as no arquivo html</p>
 
 <br>
 
