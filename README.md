@@ -6,7 +6,7 @@
 
 <br>
 
-<p align="center">Nesta aula serão passados os conceitos iniciais do framework Sass</p>
+<p align="center">Nesta aula serão passados os conceitos iniciais do framework Sass, que são a vinculação do arquivo scss com o css utilizando o comando "sass --watch styles.scss styles.css" no terminal e a criação de variáveis utilizando-as no arquivo html</p>
 
 <br>
 
