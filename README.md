@@ -10,7 +10,7 @@
 <ul>
     <li>Vinculação do arquivo scss com o css utilizando o comando "sass --watch styles.scss styles.css" no terminal;</li><br>
     <li>Criação de variáveis utilizando-as no arquivo html</li><br>
-    <li>Utilizar a agregação de seletores com sass</li><br>
+    <li>Utilizar as regras de anunhamento com sass</li><br>
 </ul>
 
 <br>
