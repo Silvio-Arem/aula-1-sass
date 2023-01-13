@@ -6,11 +6,11 @@
 
 <br>
 
-<p>Nesta aula veremos a sintaxe e as funcionalidades do framework Sass:</p><br>
-<ul>
-    <li>Vinculação do arquivo scss com o css utilizando o comando "sass --watch styles.scss styles.css" no terminal;</li><br>
-    <li>Criação de variáveis utilizando-as no arquivo html</li><br>
-    <li>Utilizar as regras de anunhamento com sass</li><br>
+<p align="center">Nesta aula veremos a sintaxe e as funcionalidades do framework Sass:</p><br>
+<ul style= "text-align: center; list-style-type: none">
+    <li>- Vinculação do arquivo scss com o css utilizando o comando "sass --watch styles.scss styles.css" no terminal;</li><br>
+    <li>- Criação de variáveis utilizando-as no arquivo html</li><br>
+    <li>- Utilizar as regras de anunhamento com sass</li><br>
 </ul>
 
 <br>
